@@ -1,0 +1,83 @@
+*SMW2+3: The Essence Star*
+
+By Golden Yoshi/Steven
+
+-README-
+
+-------------------------------------------------------------------------------------------------------------------
+I. Introduction
+II. Patching Instructions
+III. Timeline
+IV. Checklist
+V. Change History
+VI. Credits
+-------------------------------------------------------------------------------------------------------------------
+I. Introduction
+
+SMW2+3: The Essence Star is a hack of the game Super Mario World. It is also the sequel to my Yoshi's Island hack,
+SMW2+2, released earlier this year. Although this hack connects to the storyline in SMW2+2, it is not necessarily
+required to play the previous hack to understand this one. This hack contains plenty of recap of the events in the 
+first hack, so you won't be left in the dark if you haven't played the previous installment.
+
+This hack, compared to others of this game, is more heavy on storyline, and overall, has a bigger RPG feel to it. 
+The gameplay itself still consists mostly of platformer elements, however, there are areas which contain RPG elements as well, such as cutscenes and minigames. If anything, this hack could be comprable to Super Paper Mario for its mixture of classic platformer and RPG elements. 
+-------------------------------------------------------------------------------------------------------------------
+II. Patching Instructions
+
+Using a patching program (I recommend LunarIPS, which can be found here: http://www.smwcentral.net/download.php?id=39&type=tools), patch the enclosed IPS file to an UNMODIFIED version of the Super Mario World ROM. Once this is done, load up the ROM in an emulator, such as ZSNES or SNES9x, and you're ready to go.
+-------------------------------------------------------------------------------------------------------------------
+III. Timeline
+
+June 7, 2008- Hack started
+November 11, 2008- Demo released
+November 16, 2008- Demo v1.1 released
+December 28, 2008- Demo v1.2 released
+June 25, 2009- Final Version released
+-------------------------------------------------------------------------------------------------------------------
+IV. Checklist
+
+This checklist is to help keep track of all the exits and unlockables available in this hack. Once you have attained all of these criteria, then you have fully completed the hack.
+
+-42 Main Levels (Does not include levels with solely RPG elements)
+-15 character cards
+-4 Bonus Levels Available to play at Level Up! at Euphoria Festival
+-3 Custom Powerups
+-4 Easter Eggs
+--------------------------------------------------------------------------------------------------------------------
+V. Change History
+
+Final Version
+The final product, so yeah. :P
+
+V1.2
+-Eliminated slowdown by switching to BlockTool Super Deluxe
+-Expanded introduction scene
+-Altered Perry's NPC graphics to face toward the player rather than the camera
+-Lowered item shop prices
+-Neatened up the status bar a bit
+-Made a correction on Luigi's character card where I wrote he was Mario's "older" brother. Luigi is actually Mario's
+younger brother
+
+V1.1
+-All stats, including lives, powerup status, coins, and reserve box item are now saved even after resetting game
+-Reworked reserve box system. Now, you only receive items in your reserve box by purchasing them at the item shop. Items are not added to reserve box by gaining additional powerups during levels, and items do not fall from reserve box when getting hit by an enemy. The only way to use these items is to press Select.
+-Changed the music selection of the Battleship Brawl level
+-Fixed some of the wording in the message when choosing an unavailable level in the Level Up building
+--------------------------------------------------------------------------------------------------------------------
+VI. Credits
+
+andy_k_250- testing
+Broozer- testing, graphic requests, support
+Foursword4- testing, support, being an awesome friend :)
+Hach- testing, graphic requests
+Iceguy- ASM hack
+Kc- testing, graphic requests, support
+LunarDrake- testing, graphic requests
+Maxx- boss sprite
+Romi- testing, vast ASM assistance, cutscene tool, being totally awesome :3
+Roy- ASM assistance
+S.N.N.- testing, music request, support, ASM assistance
+
+SMW Central- graphic, music, and ASM resources
+Spriters' Resource- graphics
+Mario Fan Games Galaxy- graphics
